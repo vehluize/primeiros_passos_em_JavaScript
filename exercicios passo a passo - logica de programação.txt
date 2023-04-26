@@ -1,0 +1,29 @@
+Exercicio 1: Trocar uma lampada
+
+1. Verificar a lampada queimada.
+2. Verificar se precisa de escada para alcançar na lampada
+3. Verificar se tem lampada nova e funcionando - se não 1. ir a ferragem comprar uma nova
+4. Desligar a geral
+5. Pegar a escada
+6. pegar a lampada nova
+7. Subir na escada
+8. Tirar a lampada queimada do bocal
+9. Colocar a lampada nova no bocal
+10. Descer da escada
+11. Acender a luz
+12. Colocar a lampada queimada no lixo
+
+exercicio 2: vir pro Senac.
+1. Preparar o material da aula
+2. Pegar carteira, celular e colocar na mochila
+3. Pegar as chaves da casa
+4. Abrir a porta
+5. Sair pela porta.
+6.Chavear a porta
+7. DEscer as escadas. 
+8. Abrir a porta da rua
+9. Passar a porta
+10. Fechar a porta
+11. Caminhar até o SENAC
+12. Puxar a porta do senac
+13. Entra no SENAC

@@ -1,0 +1,20 @@
+// exercicios para pensar em JAVASCRIPT e rever o que foi estudado até aqui
+// exercicio 1 - R: a false
+
+const bool1 = true;
+const bool2 = false;
+const bool3 = !bool2;
+
+let resultado = bool1 && bool2;
+console.log('a',resultado); 
+// exercicio 2 - R: b false
+
+let resultado = bool1 && bool2 && bool3;
+console.log('b ',resultado);
+
+//exercicio 3 - R: c true
+resultado = !resultado && (bool1||bool2);
+console.log('c ', resultado) 
+
+//exercicio 4 - R: d. boolear
+console.log('d ', typeof resultado);
