@@ -1,0 +1,33 @@
+///function imprimirHelloWorld() {
+    //alert('Hello World');
+  //}
+  //imprimirHelloWorld();
+
+//function somaDoisNuneros (num1, num2)
+    //let soma = num1 + num2;
+    //return soma;
+    //return num1 + num2
+//let resultado = somaDoisNuneros(5,8)
+// console.log(somaDoisNuneros(5,8));
+
+//function somaDoisNumeros(num1, num2) {
+   // return num1 + num2;
+  //}
+  
+  //let resultado = somaDoisNumeros(5, 8);
+ // console.log(resultado);
+
+-----
+
+function dividirPrimeiroEUltimoPorDois(numeros) {
+    const ultimoNumero = numeros[numeros.length - 1];
+    const primeiroNumero = numeros[0];
+    const ultimoDivididoPorDois = ultimoNumero / 2;
+    const primeiroDivididoPorDois = primeiroNumero / 2;
+    return [ultimoDivididoPorDois, primeiroDivididoPorDois];
+  }
+  
+  // Exemplo de uso:
+  const numeros = [2, 4, 6, 8, 10];
+  const resultado = dividirPrimeiroEUltimoPorDois(numeros);
+  console.log(resultado); // Deve imprimir [5, 1]
